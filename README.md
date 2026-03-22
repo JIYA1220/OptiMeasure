@@ -1,6 +1,6 @@
 # OptiMeasure: Real-Time Computer Vision Dimensioning
 
-![OptiMeasure Demo](assets/screenshot.png)
+![OptiMeasure Demo](assets/Screenshot.png)
 
 OptiMeasure is a computer vision application built with Python and OpenCV that performs real-time object measurement. The system utilizes a standard A4 reference sheet to calibrate spatial dimensions and extract real-world measurements from images or video feeds.
 
