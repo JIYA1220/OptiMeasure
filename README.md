@@ -1,5 +1,7 @@
 # VisionGauge: Real-Time Computer Vision Dimensioning
 
+![VisionGauge Demo](assets/screenshot.png)
+
 VisionGauge is a computer vision application built with Python and OpenCV that performs real-time object measurement. The system utilizes a standard A4 reference sheet to calibrate spatial dimensions and extract real-world measurements from images or video feeds.
 
 ## Technical Implementation
